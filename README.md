@@ -84,7 +84,7 @@ keepalived_executable_path: '/usr/local/sbin/keepalived'
 URL from which Keepalived can be downloaded:
 
 ```yaml
-keepalived_download_url: 'https://www.keepalived.org/software/keepalived-2.2.0.tar.gz'
+keepalived_download_url: 'https://www.keepalived.org/software/keepalived-2.2.7.tar.gz'
 ```
 
 #### Keepalived configuration file template name
