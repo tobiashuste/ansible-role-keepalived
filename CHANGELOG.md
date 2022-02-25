@@ -28,7 +28,7 @@ Group your changes into these categories:
 
 ### Changed
 
-- Upgrade Keepalived version from 2.2.2 to 2.2.7
+- Install Keepalived 2.2.7 by default
   ([!58](https://gitlab.com/hifis/ansible/keepalived-role/-/merge_requests/58)
   by [christian.hueser.hzdr](https://gitlab.com/christian.hueser.hzdr)).
 
